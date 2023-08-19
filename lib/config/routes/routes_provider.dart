@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod_todo_app/config/config.dart';
+import 'package:todo_app/config/config.dart';
 import 'package:go_router/go_router.dart';
 
 final navigationKey = GlobalKey<NavigatorState>();

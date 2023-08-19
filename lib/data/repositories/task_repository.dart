@@ -1,4 +1,4 @@
-import 'package:flutter_riverpod_todo_app/data/data.dart';
+import 'package:todo_app/data/data.dart';
 
 abstract class TaskRepository {
   Future<void> addTask(Task task);

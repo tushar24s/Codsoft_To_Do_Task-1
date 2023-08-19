@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:flutter_riverpod_todo_app/utils/utils.dart';
+import 'package:todo_app/utils/utils.dart';
 
 class Task extends Equatable {
   final int? id;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_riverpod_todo_app/utils/extensions.dart';
+import 'package:todo_app/utils/extensions.dart';
 import 'common_container.dart';
 
 class DisplayErrorMessage extends StatelessWidget {

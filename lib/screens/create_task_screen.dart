@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod_todo_app/config/config.dart';
-import 'package:flutter_riverpod_todo_app/data/data.dart';
-import 'package:flutter_riverpod_todo_app/providers/providers.dart';
-import 'package:flutter_riverpod_todo_app/utils/utils.dart';
-import 'package:flutter_riverpod_todo_app/widgets/widgets.dart';
+import 'package:todo_app/config/config.dart';
+import 'package:todo_app/data/data.dart';
+import 'package:todo_app/providers/providers.dart';
+import 'package:todo_app/utils/utils.dart';
+import 'package:todo_app/widgets/widgets.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:intl/intl.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_riverpod_todo_app/utils/utils.dart';
+import 'package:todo_app/utils/utils.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod_todo_app/data/data.dart';
-import 'package:flutter_riverpod_todo_app/providers/providers.dart';
+import 'package:todo_app/data/data.dart';
+import 'package:todo_app/providers/providers.dart';
 import 'package:go_router/go_router.dart';
 
 @immutable

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod_todo_app/providers/category_provider.dart';
-import 'package:flutter_riverpod_todo_app/utils/utils.dart';
-import 'package:flutter_riverpod_todo_app/widgets/widgets.dart';
+import 'package:todo_app/providers/category_provider.dart';
+import 'package:todo_app/utils/utils.dart';
+import 'package:todo_app/widgets/widgets.dart';
 import 'package:gap/gap.dart';
 
 class CategoriesSelection extends ConsumerWidget {

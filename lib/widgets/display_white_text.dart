@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_riverpod_todo_app/utils/utils.dart';
+import 'package:todo_app/utils/utils.dart';
 
 class DisplayWhiteText extends StatelessWidget {
   const DisplayWhiteText({

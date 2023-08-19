@@ -1,5 +1,5 @@
-import 'package:flutter_riverpod_todo_app/data/data.dart';
-import 'package:flutter_riverpod_todo_app/utils/utils.dart';
+import 'package:todo_app/data/data.dart';
+import 'package:todo_app/utils/utils.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_riverpod_todo_app/data/data.dart';
-import 'package:flutter_riverpod_todo_app/utils/utils.dart';
-import 'package:flutter_riverpod_todo_app/widgets/circle_container.dart';
+import 'package:todo_app/data/data.dart';
+import 'package:todo_app/utils/utils.dart';
+import 'package:todo_app/widgets/circle_container.dart';
 import 'package:gap/gap.dart';
 
 class TaskDetails extends StatelessWidget {
